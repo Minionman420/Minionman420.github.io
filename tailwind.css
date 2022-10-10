@@ -551,6 +551,10 @@ video {
   --tw-backdrop-sepia:  ;
 }
 
+.m-10 {
+  margin: 2.5rem;
+}
+
 .flex {
   display: flex;
 }
@@ -562,10 +566,6 @@ video {
 .gap-x-20 {
   -moz-column-gap: 5rem;
        column-gap: 5rem;
-}
-
-.border {
-  border-width: 1px;
 }
 
 .border-b {
@@ -588,6 +588,22 @@ video {
 .bg-sky-300 {
   --tw-bg-opacity: 1;
   background-color: rgb(125 211 252 / var(--tw-bg-opacity));
+}
+
+.p-20 {
+  padding: 5rem;
+}
+
+.p-10 {
+  padding: 2.5rem;
+}
+
+.p-5 {
+  padding: 1.25rem;
+}
+
+.text-center {
+  text-align: center;
 }
 
 .text-5xl {
